@@ -1,0 +1,13 @@
+canvas{
+    height:100vh;
+    width:100vw;
+}
+
+.parent{
+    position:relative;
+}
+.above-fold{
+    position:absolute;
+    left:50%;
+    transform: translate(-50%, -100%);
+}
